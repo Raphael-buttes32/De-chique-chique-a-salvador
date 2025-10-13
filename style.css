@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=BBH+Sans+Bartle&display=swap');
+
 body{
    background-color: black;
    color: white;
@@ -5,6 +7,7 @@ body{
    justify-content: center;
    align-items: center;
    margin: 0;
+   font-family: "BBH Sans Bartle", sans-serif;
 }
 button {
  background-color: green;
