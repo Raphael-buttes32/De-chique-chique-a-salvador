@@ -1,5 +1,10 @@
 body{
    background-color: black;
    color: white;
+   display: flex;
+   justify-self: center;
+   align-items: center;
+
 }
+
 
