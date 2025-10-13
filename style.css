@@ -2,9 +2,13 @@ body{
    background-color: black;
    color: white;
    display: flex;
-   justify-self: center;
+   justify-content: center;
    align-items: center;
-   
+   margin: 0;
 }
-
+button {
+ background-color: green;
+ color: white;
+ padding: 20px;
+}
 
