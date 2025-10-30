@@ -12,6 +12,6 @@ avanca.forEach(button => {
 
 )
 
-d
+
 
 
